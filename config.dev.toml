@@ -65,7 +65,7 @@ StorageType = "memory"
 # Port sets the port the proxy listens on
 # Env override: ATHENS_PORT
 # Note that PORT needs to be prefixed by :
-Port = ":3000"
+Port = ":3002"
 
 # The endpoint for a package registry in case of a proxy cache miss
 # NOTE: Currently no registries have been implemented
